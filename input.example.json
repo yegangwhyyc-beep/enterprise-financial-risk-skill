@@ -1,0 +1,27 @@
+{
+  "company_name": "你的企业名称",
+  "industry": "所属行业",
+  "financial_data": {
+    "total_assets": 10000000000,
+    "total_liabilities": 6000000000,
+    "current_assets": 5500000000,
+    "current_liabilities": 3000000000,
+    "retained_earnings": 1500000000,
+    "ebit": 1200000000,
+    "market_cap": 15000000000,
+    "revenue": 8000000000,
+    "latest_annual_revenue": 8000000000,
+    "latest_annual_cost": 5500000000,
+    "latest_annual_ebit": 1200000000,
+    "latest_annual_net_profit": 720000000,
+    "total_interest_bearing_debt": 2500000000,
+    "average_interest_rate": 0.045,
+    "tax_rate": 0.25,
+    "latest_monthly_revenue": 700000000,
+    "latest_monthly_cost": 480000000,
+    "current_cash": 1200000000,
+    "historical_growth_rate": 0.08,
+    "cash_safety_threshold": 800000000,
+    "foreign_currency_debt": 0
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "company_name": "金蝶国际软件集团有限公司",
+  "industry": "企业软件与SaaS服务业",
+  "financial_data": {
+    "total_assets": 32000000000,
+    "total_liabilities": 13000000000,
+    "current_assets": 21000000000,
+    "current_liabilities": 9500000000,
+    "retained_earnings": 8500000000,
+    "ebit": 2800000000,
+    "market_cap": 55000000000,
+    "revenue": 11000000000,
+    "latest_annual_revenue": 11000000000,
+    "latest_annual_cost": 7200000000,
+    "latest_annual_ebit": 2800000000,
+    "latest_annual_net_profit": 1900000000,
+    "total_interest_bearing_debt": 1500000000,
+    "average_interest_rate": 0.035,
+    "tax_rate": 0.15,
+    "latest_monthly_revenue": 980000000,
+    "latest_monthly_cost": 620000000,
+    "current_cash": 12500000000,
+    "historical_growth_rate": 0.18,
+    "cash_safety_threshold": 5000000000,
+    "foreign_currency_debt": 0
+  }
+}
