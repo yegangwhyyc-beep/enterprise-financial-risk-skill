@@ -28,8 +28,8 @@
 ### 方法1：使用.skill文件（推荐）
 
 ```bash
-# 下载enterprise-financial-risk-prediction.skill文件
-# 在OpenClaw中安装：OpenClaw会自动处理
+# 在OpenClaw中直接对话窗口安装
+安装财务风险预测Skill: npx skills add github:yegangwhyyc-beep/enterprise-financial-risk-skill --agent openclaw --yes --global
 ```
 
 ### 方法2：手动安装
